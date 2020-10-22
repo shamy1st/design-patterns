@@ -25,4 +25,6 @@
 ### Structural
 [Composite](https://github.com/shamy1st/design-pattern-composite-java)
 
+[Adapter](https://github.com/shamy1st/design-pattern-adapter-java) allows converting interface of a class into another interface that clients expect.
+
 ### Creational
