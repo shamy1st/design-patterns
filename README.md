@@ -1,6 +1,6 @@
 # Design Patterns
 
-## Behavioural
+### Behavioural
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java) allows restoring an object to a previous state (undo).
 
@@ -22,7 +22,7 @@
 
 [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
-## Structural
+### Structural
 [Composite](https://github.com/shamy1st/design-pattern-composite-java)
 
-## Creational
+### Creational
