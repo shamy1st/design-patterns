@@ -27,4 +27,6 @@
 
 [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) allows converting interface of a class into another interface that clients expect.
 
+[Decorator](https://github.com/shamy1st/design-pattern-decorator-java)
+
 ### Creational
