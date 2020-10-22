@@ -3,14 +3,23 @@
 ## Behavioural
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java)
+
 [State](https://github.com/shamy1st/design-pattern-state-java)
+
 [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
+
 [Strategy](https://github.com/shamy1st/design-pattern-strategy-java)
+
 [Template Method](https://github.com/shamy1st/design-pattern-template-java)
+
 [Command](https://github.com/shamy1st/design-pattern-command-java)
+
 [Observer](https://github.com/shamy1st/design-pattern-observer-java)
+
 [Mediator](https://github.com/shamy1st/design-pattern-mediator-java)
+
 [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java)
+
 [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
 ## Structural
