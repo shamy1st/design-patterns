@@ -29,4 +29,12 @@
 
 [Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
 
+[Facade](https://github.com/shamy1st/design-pattern-facade-java) 
+
+[Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) 
+
+[Bridge](https://github.com/shamy1st/design-pattern-bridge-java) 
+
+[Proxy](https://github.com/shamy1st/design-pattern-proxy-java) 
+
 ### Creational
