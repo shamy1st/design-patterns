@@ -29,7 +29,7 @@
 
 [Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
 
-[Facade](https://github.com/shamy1st/design-pattern-facade-java) provide a simple interface to complex system.
+[Facade](https://github.com/shamy1st/design-pattern-facade-java) provide a simple interface to a complex system.
 
 [Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) 
 
