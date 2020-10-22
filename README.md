@@ -4,7 +4,7 @@
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java) allows restoring an object to a previous state (undo).
 
-[State](https://github.com/shamy1st/design-pattern-state-java) allows object behaviour to change based on its state.
+[State](https://github.com/shamy1st/design-pattern-state-java) allows an object behaviour to change based on its state.
 
 [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
 
