@@ -2,7 +2,7 @@
 
 ## Behavioural
 
-[Memento](https://github.com/shamy1st/design-pattern-memento-java)
+[Memento](https://github.com/shamy1st/design-pattern-memento-java) allows restoring an object to a previous state (undo).
 
 [State](https://github.com/shamy1st/design-pattern-state-java)
 
