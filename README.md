@@ -31,7 +31,7 @@
 
 [Facade](https://github.com/shamy1st/design-pattern-facade-java) provide a simple interface to a complex system.
 
-[Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) 
+[Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) object share data as possible with similar objects to minimize memory usage.
 
 [Bridge](https://github.com/shamy1st/design-pattern-bridge-java) 
 
