@@ -2,9 +2,9 @@
 
 ### Behavioural
 
-[Memento](https://github.com/shamy1st/design-pattern-memento-java) allows restoring an object to a previous state (undo).
+[Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 
-[State](https://github.com/shamy1st/design-pattern-state-java) allows an object behaviour to change based on its state.
+[State](https://github.com/shamy1st/design-pattern-state-java) an object behaviour changes based on its state.
 
 [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
 
@@ -25,8 +25,8 @@
 ### Structural
 [Composite](https://github.com/shamy1st/design-pattern-composite-java)
 
-[Adapter](https://github.com/shamy1st/design-pattern-adapter-java) allows converting interface of a class into another interface that clients expect.
+[Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
 
-[Decorator](https://github.com/shamy1st/design-pattern-decorator-java)
+[Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
 
 ### Creational
