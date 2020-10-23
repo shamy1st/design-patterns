@@ -22,13 +22,13 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 
 **Behavioural** (interaction between objects)
 * [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility) build a pipeline of processing objects for a request. / WebServer, handle() HttpRequest
-* [Command](https://github.com/shamy1st/design-pattern-command-java) object used to perform an action at a later time. / Button, click()
+* [Command](https://github.com/shamy1st/design-pattern-command) object used to perform an action at a later time. / Button, click()
 * [Interpreter]()
-* [Iterator](https://github.com/shamy1st/design-pattern-iterator-java) iterating over an object without exposing the internal structure. / BrowserHistory, loop through Urls
+* [Iterator](https://github.com/shamy1st/design-pattern-iterator) iterating over an object without exposing the internal structure. / BrowserHistory, loop through Urls
 * [Mediator](https://github.com/shamy1st/design-pattern-mediator) object encapsulates how a set of objects interact. / DialogBox(ListBox, TextBox, Button)
 * [Memento](https://github.com/shamy1st/design-pattern-memento) restoring an object to a previous state (undo). / Editor, undo() mechanism
 * [Observer](https://github.com/shamy1st/design-pattern-observer) object notify observers when its state changes. / DataSource, Chart, SpreadSheet
 * [State](https://github.com/shamy1st/design-pattern-state) object behaviour changes based on its state. / Canvas, current Tool (Brush, Eraser)
-* [Strategy](https://github.com/shamy1st/design-pattern-strategy-java)
+* [Strategy](https://github.com/shamy1st/design-pattern-strategy) selecting an algorithm at runtime. / ImageStorage, compress(), apply() filter before store()
 * [Template Method](https://github.com/shamy1st/design-pattern-template-java)
 * [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
