@@ -1,5 +1,7 @@
 # Design Patterns
 
+**Design Patterns** are elegant solutions to repeating problems. / Design reusable and extensible object-oriented software.
+
 ### Behavioural
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
