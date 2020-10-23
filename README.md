@@ -30,5 +30,5 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Observer](https://github.com/shamy1st/design-pattern-observer) object notify observers when its state changes. / DataSource, Chart, SpreadSheet
 * [State](https://github.com/shamy1st/design-pattern-state) object behaviour changes based on its state. / Canvas, current Tool (Brush, Eraser)
 * [Strategy](https://github.com/shamy1st/design-pattern-strategy) selecting an algorithm at runtime. / ImageStorage, compress(), apply() filter before store()
-* [Template Method](https://github.com/shamy1st/design-pattern-template-java)
+* [Template Method](https://github.com/shamy1st/design-pattern-template) define a template for an operation. / TransferMoney, GenerateReport, share task auditTrail.record()
 * [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
