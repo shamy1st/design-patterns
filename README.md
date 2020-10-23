@@ -21,7 +21,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 **Behavioural** (interaction between objects)
-* [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java)
+* [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java) build a pipeline of processing objects for a request.
 * [Command](https://github.com/shamy1st/design-pattern-command-java)
 * [Interpreter]()
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
