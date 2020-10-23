@@ -26,7 +26,7 @@ Design reusable and extensible object-oriented software.
 
 [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
-### Structural
+### Structural (how classes and objects can be composed)
 [Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
 
 [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
@@ -41,4 +41,4 @@ Design reusable and extensible object-oriented software.
 
 [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
-### Creational
+### Creational (the way of creating objects)
