@@ -4,7 +4,7 @@
 Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://en.wikipedia.org/wiki/Design_Patterns)
 ***
 **Creational** (way to create objects)
-* [Factory Method]() create objects without specifying the class of the object that will be created.
+* [Factory Method](https://github.com/shamy1st/design-pattern-factory) create objects without specifying the class of the object that will be created.
 * [Abstract Factory]()
 * [Builder]()
 * [Prototype]()
