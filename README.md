@@ -31,4 +31,4 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [State](https://github.com/shamy1st/design-pattern-state) object behaviour changes based on its state. / Canvas, current Tool (Brush, Eraser)
 * [Strategy](https://github.com/shamy1st/design-pattern-strategy) selecting an algorithm at runtime. / ImageStorage, compress(), apply() filter before store()
 * [Template Method](https://github.com/shamy1st/design-pattern-template) define a template for an operation. / TransferMoney, GenerateReport, share task auditTrail
-* [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
+* [Visitor](https://github.com/shamy1st/design-pattern-visitor) add new operation to an object structure without modifying it. / HtmlDocument, HtmlNode, plaintext()
