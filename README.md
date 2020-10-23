@@ -22,7 +22,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 
 **Behavioural** (interaction between objects)
 * [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java) build a pipeline of processing objects for a request.
-* [Command](https://github.com/shamy1st/design-pattern-command-java) object is used to encapsulate all information needed to perform an action at a later time.
+* [Command](https://github.com/shamy1st/design-pattern-command-java) object used to perform an action at a later time. / Button, click()
 * [Interpreter]()
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
 * [Mediator](https://github.com/shamy1st/design-pattern-mediator-java)
