@@ -2,7 +2,7 @@
 
 **Design Pattern** elegant solution to repeating problem. / Design reusable, extensible object-oriented software.
 
-### Behavioural (interaction and responsibility of objects)
+**Behavioural** (interaction and responsibility of objects)
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 
@@ -24,7 +24,7 @@
 
 [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
-### Structural (how classes and objects can be composed)
+**Structural** (how classes and objects can be composed)
 [Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
 
 [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
@@ -39,4 +39,4 @@
 
 [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
-### Creational (the way of creating objects)
+**Creational** (the way of creating objects)
