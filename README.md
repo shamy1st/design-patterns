@@ -3,7 +3,7 @@
 **Design Pattern** elegant solution to repeating problem. / Design reusable, extensible object-oriented software.
 
 Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* 23 design patterns: 6 creational, 7 structural, 10 behavioral
+* 23 design patterns: 6 creational, 7 structural, 10 behavioural
 ***
 **Behavioural** (interaction and responsibility of objects)
 
