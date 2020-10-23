@@ -24,7 +24,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java) build a pipeline of processing objects for a request.
 * [Command](https://github.com/shamy1st/design-pattern-command-java) object used to perform an action at a later time. / Button, click()
 * [Interpreter]()
-* [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
+* [Iterator](https://github.com/shamy1st/design-pattern-iterator-java) iterating over an object without exposing the internal structure. / BrowserHistory, loop through Urls
 * [Mediator](https://github.com/shamy1st/design-pattern-mediator-java)
 * [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 * [Observer](https://github.com/shamy1st/design-pattern-observer-java)
