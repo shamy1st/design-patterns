@@ -18,7 +18,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Decorator](https://github.com/shamy1st/design-pattern-decorator) add additional behaviour to an object. / CloudStream, (1. encrypt, 2. compress, 3. store)
 * [Facade](https://github.com/shamy1st/design-pattern-facade) simple interface to a complex system. / NotificationServer, mobile app users
 * [Flyweight](https://github.com/shamy1st/design-pattern-flyweight) object share data as possible with similar objects to minimize memory usage. / Point, map app
-* [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
+* [Proxy](https://github.com/shamy1st/design-pattern-proxy) create a proxy "agent" from a real object. / Library, Ebook
 
 **Behavioural** (interaction between objects)
 * [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility) build a pipeline of processing objects for a request. / WebServer, handle() HttpRequest
