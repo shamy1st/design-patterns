@@ -1,12 +1,9 @@
 # Design Patterns
 
 **Design Pattern** elegant solution to repeating problem. / Design reusable, extensible object-oriented software.
-
-Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-* 23 design patterns: 6 creational, 7 structural, 10 behavioural
+Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) * 23 design patterns: 6 creational, 7 structural, 10 behavioural
 ***
 **Behavioural** (interaction and responsibility of objects)
-
 * [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 * [State](https://github.com/shamy1st/design-pattern-state-java) object behaviour changes based on its state.
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
@@ -20,28 +17,17 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 
 **Structural** (how classes and objects can be composed)
 * [Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
-
 * [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
-
 * [Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
-
 * [Facade](https://github.com/shamy1st/design-pattern-facade-java) provide a simple interface to a complex system.
-
 * [Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) object share data as possible with similar objects to minimize memory usage.
-
 * [Bridge](https://github.com/shamy1st/design-pattern-bridge-java) connect two independent hierarchies, build a simple yet flexible hierarchy.
-
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 **Creational** (the way of creating objects)
 * [Factory Method]()
-
 * [Abstract Factory]()
-
 * [Singleton]()
-
 * [Prototype]()
-
 * [Builder]()
-
 * [Object Pool]()
