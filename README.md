@@ -4,7 +4,8 @@
 
 Design reusable and extensible object-oriented software.
 
-### Behavioural (concerned with the interaction and responsibility of objects)
+### Behavioural 
+(concerned with the interaction and responsibility of objects)
 
 [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 
