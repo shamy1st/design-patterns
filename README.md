@@ -43,3 +43,14 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 **Creational** (the way of creating objects)
+* [Factory Method]()
+
+* [Abstract Factory]()
+
+* [Singleton]()
+
+* [Prototype]()
+
+* [Builder]()
+
+* [Object Pool]()
