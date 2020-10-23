@@ -6,6 +6,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * 23 design patterns: 6 creational, 7 structural, 10 behavioral
 
 
+
 **Behavioural** (interaction and responsibility of objects)
 
 * [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
