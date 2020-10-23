@@ -21,7 +21,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 **Behavioural** (interaction between objects)
-* [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java) build a pipeline of processing objects for a request.
+* [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility) build a pipeline of processing objects for a request. / WebServer, handle() HttpRequest
 * [Command](https://github.com/shamy1st/design-pattern-command-java) object used to perform an action at a later time. / Button, click()
 * [Interpreter]()
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java) iterating over an object without exposing the internal structure. / BrowserHistory, loop through Urls
