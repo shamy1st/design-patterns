@@ -12,7 +12,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Object Pool]()
 
 **Structural** (relationship between objects)
-* [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
+* [Adapter](https://github.com/shamy1st/design-pattern-adapter) convert interface of a class into another interface that clients expect. / Image, external Caramel filter
 * [Bridge](https://github.com/shamy1st/design-pattern-bridge-java) connect two independent hierarchies, build a simple yet flexible hierarchy.
 * [Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
 * [Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
