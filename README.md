@@ -26,7 +26,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Interpreter]()
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java) iterating over an object without exposing the internal structure. / BrowserHistory, loop through Urls
 * [Mediator](https://github.com/shamy1st/design-pattern-mediator) object encapsulates how a set of objects interact. / DialogBox(ListBox, TextBox, Button)
-* [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
+* [Memento](https://github.com/shamy1st/design-pattern-memento) restoring an object to a previous state (undo). / Editor, undo() mechanism
 * [Observer](https://github.com/shamy1st/design-pattern-observer-java)
 * [State](https://github.com/shamy1st/design-pattern-state-java) object behaviour changes based on its state.
 * [Strategy](https://github.com/shamy1st/design-pattern-strategy-java)
