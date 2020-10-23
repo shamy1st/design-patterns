@@ -23,7 +23,7 @@
 [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
 ### Structural
-[Composite](https://github.com/shamy1st/design-pattern-composite-java)
+[Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
 
 [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
 
