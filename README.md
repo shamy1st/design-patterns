@@ -1,8 +1,6 @@
 # Design Patterns
 
-**Design Patterns** are elegant solutions to repeating problems.
-
-Design reusable and extensible object-oriented software.
+**Design Patterns** are elegant solutions to repeating problems. / Design reusable, extensible object-oriented software.
 
 ### Behavioural (interaction and responsibility of objects)
 
