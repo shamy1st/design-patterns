@@ -33,7 +33,7 @@
 
 [Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) object share data as possible with similar objects to minimize memory usage.
 
-[Bridge](https://github.com/shamy1st/design-pattern-bridge-java) build a simple yet flexible hierarchy.
+[Bridge](https://github.com/shamy1st/design-pattern-bridge-java) connect two independent hierarchies, build a simple yet flexible hierarchy.
 
 [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) 
 
