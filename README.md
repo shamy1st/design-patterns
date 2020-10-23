@@ -3,7 +3,7 @@
 **Design Pattern** elegant solution to repeating problem. / Design reusable, extensible object-oriented software.
 Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://en.wikipedia.org/wiki/Design_Patterns)
 ***
-**Behavioural** (interaction and responsibility of objects)
+**Behavioural** (interaction between objects)
 * [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
 * [State](https://github.com/shamy1st/design-pattern-state-java) object behaviour changes based on its state.
 * [Iterator](https://github.com/shamy1st/design-pattern-iterator-java)
@@ -15,7 +15,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Chain of Responsibility](https://github.com/shamy1st/design-pattern-chain-of-responsibility-java)
 * [Visitor](https://github.com/shamy1st/design-pattern-visitor-java)
 
-**Structural** (how classes and objects can be composed)
+**Structural** (relationship between objects)
 * [Composite](https://github.com/shamy1st/design-pattern-composite-java) describes a group of objects that are treated the same way as a single instance.
 * [Adapter](https://github.com/shamy1st/design-pattern-adapter-java) converting interface of a class into another interface that clients expect.
 * [Decorator](https://github.com/shamy1st/design-pattern-decorator-java) add additional behavior to an object.
@@ -24,7 +24,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Bridge](https://github.com/shamy1st/design-pattern-bridge-java) connect two independent hierarchies, build a simple yet flexible hierarchy.
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
-**Creational** (the way of creating objects)
+**Creational** (way to create objects)
 * [Factory Method]()
 * [Abstract Factory]()
 * [Singleton]()
