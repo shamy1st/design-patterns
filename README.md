@@ -1,7 +1,7 @@
 # Design Patterns
 
 **Design Pattern** elegant solution to repeating problem. / Design reusable, extensible object-oriented software.
-Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](https://en.wikipedia.org/wiki/Design_Patterns)
 ***
 **Behavioural** (interaction and responsibility of objects)
 * [Memento](https://github.com/shamy1st/design-pattern-memento-java) restoring an object to a previous state (undo).
