@@ -35,6 +35,6 @@
 
 [Bridge](https://github.com/shamy1st/design-pattern-bridge-java) connect two independent hierarchies, build a simple yet flexible hierarchy.
 
-[Proxy](https://github.com/shamy1st/design-pattern-proxy-java) 
+[Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 ### Creational
