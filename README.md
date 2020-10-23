@@ -17,7 +17,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Composite](https://github.com/shamy1st/design-pattern-composite) group of objects treated the same way as a single instance. / Shape(Circle, Square), Group
 * [Decorator](https://github.com/shamy1st/design-pattern-decorator) add additional behaviour to an object. / CloudStream, (1. encrypt, 2. compress, 3. store)
 * [Facade](https://github.com/shamy1st/design-pattern-facade) simple interface to a complex system. / NotificationServer, mobile app users
-* [Flyweight](https://github.com/shamy1st/design-pattern-flyweight-java) object share data as possible with similar objects to minimize memory usage.
+* [Flyweight](https://github.com/shamy1st/design-pattern-flyweight) object share data as possible with similar objects to minimize memory usage. / Point, map application
 * [Proxy](https://github.com/shamy1st/design-pattern-proxy-java) create a proxy "agent" from a real object.
 
 **Behavioural** (interaction between objects)
