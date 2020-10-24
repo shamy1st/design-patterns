@@ -8,7 +8,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Abstract Factory](https://github.com/shamy1st/design-pattern-abstract-factory) a super-factory which creates other factories. / ShapeFactory, RoundedShapeFactory
 * [Builder](https://github.com/shamy1st/design-pattern-builder)
 * [Prototype](https://github.com/shamy1st/design-pattern-prototype)
-* [Singleton](https://github.com/shamy1st/design-pattern-singleton) a class has only one instance.
+* [Singleton](https://github.com/shamy1st/design-pattern-singleton) a class has only one instance and a global point of access to it.
 * [Object Pool](https://github.com/shamy1st/design-pattern-object-pool)
 
 **Structural** (relationship between objects)
