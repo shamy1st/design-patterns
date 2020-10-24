@@ -5,7 +5,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 ***
 **Creational** (way to create objects)
 * [Factory Method](https://github.com/shamy1st/design-pattern-factory) create objects without specifying the class of the object. / Shape(Circle, ...), ShapeFactory
-* [Abstract Factory]()
+* [Abstract Factory](https://github.com/shamy1st/design-pattern-abstract-factory) a super-factory which creates other factories.
 * [Builder]()
 * [Prototype]()
 * [Singleton]()
