@@ -9,7 +9,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 * [Builder](https://github.com/shamy1st/design-pattern-builder) construct a complex object from simple objects. / Fast-Food Restaurant, Burger, ColdDrink
 * [Prototype](https://github.com/shamy1st/design-pattern-prototype) cloning an object instead of creating new one. / Shape, ShapeCache
 * [Singleton](https://github.com/shamy1st/design-pattern-singleton) a class has only one instance and a global point of access to it.
-* [Object Pool](https://github.com/shamy1st/design-pattern-object-pool) reuse objects that are expensive to create.
+* [Object Pool](https://github.com/shamy1st/design-pattern-object-pool) set of objects ready to use.
 
 **Structural** (relationship between objects)
 * [Adapter](https://github.com/shamy1st/design-pattern-adapter) convert interface of a class into another interface that clients expect. / Image, external Caramel filter
