@@ -6,10 +6,10 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 **Creational** (way to create objects)
 * [Factory Method](https://github.com/shamy1st/design-pattern-factory) create objects without specifying the class of the object. / Shape(Circle, ...), ShapeFactory
 * [Abstract Factory](https://github.com/shamy1st/design-pattern-abstract-factory) a super-factory which creates other factories. / ShapeFactory, RoundedShapeFactory
-* [Builder]()
-* [Prototype]()
-* [Singleton]()
-* [Object Pool]()
+* [Builder](https://github.com/shamy1st/design-pattern-builder)
+* [Prototype](https://github.com/shamy1st/design-pattern-prototype)
+* [Singleton](https://github.com/shamy1st/design-pattern-singleton) a class has only one instance.
+* [Object Pool](https://github.com/shamy1st/design-pattern-object-pool)
 
 **Structural** (relationship between objects)
 * [Adapter](https://github.com/shamy1st/design-pattern-adapter) convert interface of a class into another interface that clients expect. / Image, external Caramel filter
