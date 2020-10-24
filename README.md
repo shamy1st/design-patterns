@@ -6,7 +6,7 @@ Book: [Design Patterns: Elements of Reusable Object-Oriented Software by GoF](ht
 **Creational** (way to create objects)
 * [Factory Method](https://github.com/shamy1st/design-pattern-factory) create objects without specifying the class of the object. / Shape(Circle, ...), ShapeFactory
 * [Abstract Factory](https://github.com/shamy1st/design-pattern-abstract-factory) a super-factory which creates other factories. / ShapeFactory, RoundedShapeFactory
-* [Builder](https://github.com/shamy1st/design-pattern-builder) construct a complex object from simple objects using step-by-step approach.
+* [Builder](https://github.com/shamy1st/design-pattern-builder) construct a complex object from simple objects. / Fast-Food Restaurant, Burger, ColdDrink
 * [Prototype](https://github.com/shamy1st/design-pattern-prototype) cloning an object instead of creating new one. / Shape, ShapeCache
 * [Singleton](https://github.com/shamy1st/design-pattern-singleton) a class has only one instance and a global point of access to it.
 * [Object Pool](https://github.com/shamy1st/design-pattern-object-pool)
